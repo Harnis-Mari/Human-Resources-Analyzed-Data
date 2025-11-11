@@ -5,7 +5,7 @@
 ## Introduction
 The project is based on understanding employee demographic information from a production company. Through an interactive dashboard, we can gain insight primarily into the workforce distribution of the company.
 
-###Disclaimer:
+### Disclaimer:
 ##### The dataset was obtained from a Human Resources Analyst's YouTube channel and it is only for learning purposes.
 
 ## Problem Statement
@@ -75,7 +75,7 @@ Through the above challenge,
 
 - The average employee's age is 43.91 which shows a mature workforce.
 
--Generation X dominated the workforce, followed by Generation Y, with minimal representation of Baby Boomers and Generation Z.
+- Generation X dominated the workforce, followed by Generation Y, with minimal representation of Baby Boomers and Generation Z.
 
 - There is a gender imbalance in the workforce with 63.4% males and 36.5% females. 
 
