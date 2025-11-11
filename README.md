@@ -2,7 +2,7 @@
 [HR Analysis]
 ![](Office.jpeg)
 
-##Introduction
+## Introduction
 The project is based on understanding employee demographic information from a production company. Through an interactive dashboard, we can gain insight primarily into the workforce distribution of the company.
 
 ###Disclaimer:
