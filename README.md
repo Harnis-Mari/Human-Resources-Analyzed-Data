@@ -62,7 +62,7 @@ Through the above challenge,
 - The new update altered the initial findings
 
 # Data Modelling
-| Data in Excel | Data in Power |
+| Data in Excel | Data in Power BI |
 |---------------|---------------|
 | ![](Excel.jpg)| ![](PowerBI.jpg)|
 
